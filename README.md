@@ -53,4 +53,4 @@ Proyecto de Machine Learning que predice la calidad de vinos tintos y blancos a 
 - La arquitectura **(100, 50, 25)** con 3,000 iteraciones fue la configuración óptima
 
 ## Autor
-Estudiante de Ciencia de Datos — Tecnológico de Monterrey
+ Alejandro Reyes | Analista de Datos Jr.
